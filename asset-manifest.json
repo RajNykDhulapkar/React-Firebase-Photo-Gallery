@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Firebase-Photo-Gallery/static/css/main.27426355.chunk.css",
+    "main.js": "/React-Firebase-Photo-Gallery/static/js/main.cd8c95f8.chunk.js",
+    "main.js.map": "/React-Firebase-Photo-Gallery/static/js/main.cd8c95f8.chunk.js.map",
+    "runtime-main.js": "/React-Firebase-Photo-Gallery/static/js/runtime-main.f03bfdd4.js",
+    "runtime-main.js.map": "/React-Firebase-Photo-Gallery/static/js/runtime-main.f03bfdd4.js.map",
+    "static/js/2.6546c454.chunk.js": "/React-Firebase-Photo-Gallery/static/js/2.6546c454.chunk.js",
+    "static/js/2.6546c454.chunk.js.map": "/React-Firebase-Photo-Gallery/static/js/2.6546c454.chunk.js.map",
+    "index.html": "/React-Firebase-Photo-Gallery/index.html",
+    "precache-manifest.abe9913117e4b8daac89b683a2ea88b5.js": "/React-Firebase-Photo-Gallery/precache-manifest.abe9913117e4b8daac89b683a2ea88b5.js",
+    "service-worker.js": "/React-Firebase-Photo-Gallery/service-worker.js",
+    "static/css/main.27426355.chunk.css.map": "/React-Firebase-Photo-Gallery/static/css/main.27426355.chunk.css.map",
+    "static/js/2.6546c454.chunk.js.LICENSE.txt": "/React-Firebase-Photo-Gallery/static/js/2.6546c454.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f03bfdd4.js",
+    "static/js/2.6546c454.chunk.js",
+    "static/css/main.27426355.chunk.css",
+    "static/js/main.cd8c95f8.chunk.js"
+  ]
+}
